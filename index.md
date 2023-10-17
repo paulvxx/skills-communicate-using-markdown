@@ -1,3 +1,4 @@
-# <h1>LARGE HEADER #1</h1>
-# <h2>Big header #2</h2>
-# <h6>Small header #6</h6>
+# This is an `<h1>` header, THIS IS LARGE
+## This is an `<h2>` header
+### This is Header #3 <h3>
+###### This is an `<h6>` header, it is the smallest header
